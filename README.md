@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00FF00&center=true&vCenter=true&lines=Hello!+I'm+mallow;C+%7C+Python+%7C+Bash+%7C+Linux;Building+and+Growing!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00FF00&center=true&vCenter=true&lines=Hello!!;C+%7C+Python+%7C+Bash+%7C+Linux;Building+and+Growing!">
 </p>
 
 ---
