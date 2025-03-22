@@ -16,15 +16,18 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS"/>
+  <img src="https://img.shields.io/badge/Nobara-9B1C2E?style=for-the-badge&logo=fedora&logoColor=white" alt="Nobara"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </p>
 
 ---
 
-## Upcoming Projects
+## 🔥 Upcoming Projects
 1) **TCP/UDP Packet Sniffer** – Analyze network packets with precision.  
-2)  **Simple Shell** – A command-line shell that interprets user commands.  
-3)  **File Encryption/Decryption Tool** – Secure your data like a pro.  
-4)  **Self-Destructing File System** – Enhancements in progress for better security.
+2) **Simple Shell** – A command-line shell that interprets user commands.  
+3) **File Encryption/Decryption Tool** – Secure your data like a pro.  
+4) **Self-Destructing File System** – Enhancements in progress for better security.
 
 ---
 
