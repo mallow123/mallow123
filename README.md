@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00FF00&center=true&vCenter=true&lines=Hello!!;C+%7C+Python+%7C+Bash+%7C+Linux;Building+and+Growing!">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mallow123&style=flat-square&color=00FF00" alt="Profile Views"/>
+</p>
+
 ---
 
 ## 🛠️ Projects
