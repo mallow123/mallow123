@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00FF00&center=true&vCenter=true&lines=Hello!!;C+%7C+Python+%7C+Bash+%7C+Linux;Building+and+Growing!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00FF00&center=true&vCenter=true&lines=Hello!!;Prolog+%7C+C%2B%2B+%7C+C+%7C+Python+%7C+Bash;Linux+%7C+NixOS+%7C+Nobara+%7C+Arch;Building+and+Growing!">
 </p>
 
 <p align="center">
@@ -16,14 +16,56 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS"/>
-  <img src="https://img.shields.io/badge/Nobara-9B1C2E?style=for-the-badge&logo=fedora&logoColor=white" alt="Nobara"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Prolog-742774?style=for-the-badge&logo=swi-prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nobara-9B1C2E?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-333333?style=for-the-badge&logo=OpenSSH&logoColor=white" />
+  <img src="https://img.shields.io/badge/Awk-000000?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
+
 </p>
+
+---
+
+## 💰 Support Me
+
+<p align="center">
+  <b>Bitcoin:</b> <code>bc1qqm8se7gcwm0t8vty7xyz3w0m3kcqmjdu...</code><br>
+  <b>Ethereum:</b> <code>0x4F74c7865CC51d1eb96dc056497299E543aA36Ad</code><br>
+  <b>Solana:</b> <code>6BsYx4aYzcc7eDeP7c7CDfpcKhNrCm3zvBYwSFmmaV5V</code>
+</p>
+
+<p align="center">
+  <a href="bitcoin:bc1qqm8se7gcwm0t8vty7xyz3w0m3kcqmjdu...">
+    <img src="https://img.shields.io/badge/Donate-Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  </a>
+  <a href="ethereum:0x4F74c7865CC51d1eb96dc056497299E543aA36Ad">
+    <img src="https://img.shields.io/badge/Donate-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  </a>
+  <a href="solana:6BsYx4aYzcc7eDeP7c7CDfpcKhNrCm3zvBYwSFmmaV5V">
+    <img src="https://img.shields.io/badge/Donate-Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Thank you for supporting my work! 💚</i>
+</p>
+
+
 
 ---
 
