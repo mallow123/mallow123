@@ -11,6 +11,23 @@
 ## 🛠️ Projects
 ### 🚨 [Self-Destructing File System](https://github.com/mallow123/self-destructing-file-system)
 > A secure file deletion system that auto-destroys files after a set timer, ensuring privacy.
+### 🛡️ [Sentinel LKM: BlackBox Kernel Module](https://github.com/mallow123/sentinel-lkm-blackbox-kernel-)
+> A Linux kernel module framework for advanced system introspection and monitoring.  
+> Currently contains a **Hello World kernel module** with plans for process monitoring, filesystem interception, and network hooks.
+
+**Current Focus:**
+- Expanding `procmon` to log process activity
+- Building filesystem interception (`fsint`)
+- Network hooks (`netmon`) for packet analysis
+- Developing userspace TUI interface
+
+**Tech:** C, Linux Kernel, Make, GCC
+
+**Status:** ✅ Initial Hello World module completed
+
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/mallow123/sentinel-lkm-blackbox-kernel-)](https://github.com/mallow123/sentinel-lkm-blackbox-kernel-)
+[![Language](https://img.shields.io/badge/Language-C-blue)](https://www.kernel.org/)
+[![License](https://img.shields.io/badge/License-GPLv2-green)](LICENSE)
 
 ---
 
