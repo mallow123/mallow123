@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=mallow123&label=PROFILE+VIEWS&color=00FF00&style=flat-square"
+    src="https://YOUR-DEPLOYMENT.vercel.app/api/views?id=mallow123"
     alt="Profile Views"
   />
 </p>
