@@ -2,12 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00FF00&center=true&vCenter=true&lines=Hello!!;Prolog+%7C+C%2B%2B+%7C+C+%7C+Python+%7C+Bash;Linux+%7C+NixOS+%7C+Nobara+%7C+Arch;Building+and+Growing!">
 </p>
 
+
+
 <p align="center">
   <img
-    src="https://YOUR-DEPLOYMENT.vercel.app/api/views?id=mallow123"
+    src="https://counter.othmaro.dev/api/views?id=mallow123&label=PROFILE+VIEWS&rightColor=00FF00&style=flat-square"
     alt="Profile Views"
   />
 </p>
+
+
 
 ---
 
