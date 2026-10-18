@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mallow123&style=flat-square&color=00FF00" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=mallow123&label=PROFILE+VIEWS&color=00FF00&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
 ---
