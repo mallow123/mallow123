@@ -4,14 +4,6 @@
 
 
 
-<p align="center">
-  <img
-    src="https://counter.othmaro.dev/api/views?id=mallow123&label=PROFILE+VIEWS&rightColor=00FF00&style=flat-square"
-    alt="Profile Views"
-  />
-</p>
-
-
 
 ---
 
